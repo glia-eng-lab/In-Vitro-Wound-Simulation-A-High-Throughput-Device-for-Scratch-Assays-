@@ -6,6 +6,7 @@ Steps:
 5. cell_scratches.m
 
 Brief Description:
+
 Square.ijm -  crops images to squares
 
 Filter.ijm - applies a tophat filter to detect cells
