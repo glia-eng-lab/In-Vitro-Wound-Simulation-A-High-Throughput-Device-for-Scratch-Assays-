@@ -7,14 +7,14 @@ Steps:
 
 Brief Description:
 
-Square.ijm -  crops images to squares
+- Square.ijm -  crops images to squares
 
-Filter.ijm - applies a tophat filter to detect cells
+- Filter.ijm - applies a tophat filter to detect cells
 
-Threshold.ijm - binarizes images
+- Threshold.ijm - binarizes images
 
-Denoise.ijm - cleans up binarized images
+- Denoise.ijm - cleans up binarized images
 
-cell_scratches.m - detects scratch boundaries and obtains measurements
+- cell_scratches.m - detects scratch boundaries and obtains measurements
 
 A more detailed description of each script and a walkthrough is provided in Video D.1.
